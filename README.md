@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zafranek
 - 👀 I’m interested in finishing my certificate and hopefully landing a job that allows me to work from home.
 - 🌱 I’m currently learning on how to write SQL codes.
-- 📫 How to reach me kuvulazafrane8@gmai.com
+- 📫 How to reach me zkuvula@msudenver.edu or 720-487-4809.
 
 <!---
 Zafranek/Zafranek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
